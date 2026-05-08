@@ -139,6 +139,16 @@ Integrating medical literature with multimodal reasoning systems.
 | InstructBLIP | Dai et al. | 2023 | https://arxiv.org/abs/2305.06500 |
 | LLaVA | Liu et al. | 2023 | https://arxiv.org/abs/2304.08485 |
 | GPT-4V System Card | OpenAI | 2023 | https://openai.com/research/gpt-4v-system-card |
+| Language Models are Few-Shot Learners | Brown et al. | 2020 | https://arxiv.org/abs/2005.14165 |
+| LLaMA: Open and Efficient Foundation Language Models | Touvron et al. | 2023 | https://arxiv.org/abs/2302.13971 |
+| Deep Residual Learning for Image Recognition (ResNet) | He et al. | 2016 | https://arxiv.org/abs/1512.03385 |
+| End-to-End Object Detection with Transformers (DETR) | Carion et al. | 2020 | https://arxiv.org/abs/2005.12872 |
+| A Simple Framework for Contrastive Learning of Visual Representations (SimCLR) | Chen et al. | 2020 | https://arxiv.org/abs/2002.05709 |
+| Representation Learning: A Review and New Perspectives | Bengio et al. | 2013 | https://arxiv.org/abs/1206.5538 |
+| Efficient Estimation of Word Representations in Vector Space (Word2Vec) | Mikolov et al. | 2013 | https://arxiv.org/abs/1301.3781 |
+| Transfer Learning in Natural Language Processing | Ruder et al. | 2019 | https://ruder.io/transfer-learning/ |
+| Deep Learning | LeCun, Bengio, Hinton | 2015 | https://www.nature.com/articles/nature14539 |
+| On the Opportunities and Risks of Foundation Models | Bommasani et al. | 2021 | https://arxiv.org/abs/2108.07258 |
 
 ---
 
@@ -155,6 +165,15 @@ Integrating medical literature with multimodal reasoning systems.
 | BioViL-T | Bannur et al. | 2023 | https://arxiv.org/abs/2303.00961 |
 | GLoRIA | Huang et al. | 2021 | https://arxiv.org/abs/2102.09209 |
 | ConVIRT | Zhang et al. | 2022 | https://proceedings.mlr.press/v182/zhang22a.html |
+| AI in Health and Medicine | Rajpurkar et al. | 2022 | https://www.nature.com/articles/s41591-021-01614-0 |
+| Large-Scale Self-Supervised Learning for Medical Imaging | Azizi et al. | 2021 | https://arxiv.org/abs/2101.05224 |
+| Medical Vision-Language Pretraining: A Survey | Ramesh et al. | 2024 | https://arxiv.org/abs/2402.06294 |
+| A Guide to Deep Learning in Healthcare | Esteva et al. | 2019 | https://www.nature.com/articles/s41591-018-0316-z |
+| International Evaluation of an AI System for Breast Cancer Screening | McKinney et al. | 2020 | https://www.nature.com/articles/s41586-019-1799-6 |
+| Deep Learning for Healthcare: Review, Opportunities and Challenges | Miotto et al. | 2018 | https://academic.oup.com/jamia/article/25/3/364/4989387 |
+| High-Performance Medicine: The Convergence of Human and Artificial Intelligence | Eric Topol | 2019 | https://www.nature.com/articles/s41591-018-0300-7 |
+| What Do We Need to Build Explainable AI Systems for the Medical Domain? | Holzinger et al. | 2017 | https://arxiv.org/abs/1712.09923 |
+| Privacy Preserving Deep Learning in Healthcare | Johnson et al. | 2020 | https://arxiv.org/abs/2003.08119 |
 
 ---
 
@@ -170,6 +189,7 @@ Integrating medical literature with multimodal reasoning systems.
 | MedICaT | Medical image-text dataset | https://arxiv.org/abs/2010.06000 |
 | RadGraph | Structured radiology annotations | https://physionet.org/content/radgraph/1.0.0/ |
 | PMC-VQA | Medical QA dataset | https://github.com/zhjohnchan/PMC-VQA |
+| ImageNet | Large-scale image dataset for visual pretraining | https://www.image-net.org/ |
 
 ---
 
